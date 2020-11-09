@@ -1,0 +1,74 @@
+#hunger{
+    color: rgb(255, 123, 0);
+    margin-left: 25%;
+}
+#hot_food1{
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 200px%;
+    width: 600px;
+}
+#timeline1{
+    text-align: bold;
+    font-weight: 1200;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: rgb(0, 0, 0);
+}
+.card{
+    padding: 50px 15px 10px 15px;
+}
+p,h5{
+    margin-left: 5%;
+    color: white;
+}
+body{
+    background-image: url(salmon-518032.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.card-deck{
+    margin-left: 3.7%;
+    margin-right: 3.7%;
+}
+order{
+    background-color: rgba(255, 123, 0, 0.89);
+    
+}
+
+h5{
+    color: black;
+}
+.carouselExampleCaptions{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.card-text{
+    color: black;
+}
+.available{
+    text-align: center;
+    margin-left: 450px;
+    height: 300px;
+    width: 380px;
+}
+nav.navbar.navbar-brand{
+    background-color: transparent;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    margin: 10px 8px 10px 10px;
+}
+nav.nav-bar.search-bar{
+    text-align: center;
+}
+nav.search-bar{
+    background-color: transparent;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+
+
